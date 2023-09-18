@@ -7,3 +7,4 @@ Configuração flexível de temporizadores para estudos e intervalos.
 Alertas visuais e sonoros para informar o início e o término de cada período.
 Acompanhamento do tempo restante para o próximo intervalo ou estudo.
 Registros de histórico de estudos para ajudar no acompanhamento do progresso.
+![Focus](https://github.com/AZZOXdev/Focus/assets/116178123/9fd9962e-126b-4577-a313-c2be5e6a9399)
